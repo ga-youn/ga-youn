@@ -1,16 +1,23 @@
-### Hi there 👋
+# 🎉Welcome To My GitHub!🎉
 
-<!--
-**ga-youn/ga-youn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ▎About
+💕Park ga youn
+- Inha University (SNU)
+- Major : Cultural Content
+- gyym9310@gmail.com 😉👍
+- ubrejk@naver.com
 
-Here are some ideas to get you started:
+# ▎Tech Stacks
+- Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
+- Back-end : <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span><br/>
+- Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ▎Blog For Learning
+- ### https://ga-you-ni.tistory.com/
+
+# ▎Portfolio Website
+- ### https://ga-youn/ga-youn.github.io
