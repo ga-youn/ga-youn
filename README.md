@@ -15,8 +15,8 @@
 
 
 - Back-end : 
-- <span><img src="https://img.shields.io/badge/orcle-F80000?style=flat&logo=postgresql&logoColor=red"/></span><br/>
-- <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/orcle-F80000?style=flat&logo=oracle&logoColor=red"/></span>
+<span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span><br/>
 
 
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
