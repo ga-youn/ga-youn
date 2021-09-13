@@ -1,7 +1,7 @@
 # 🎉Welcome To My GitHub!🎉
 
 # ▎About
--💕Park ga youn
+- 💕Park ga youn
 - Inha University
 - Major : Cultural Content / Minor : Department of Computer Science
 - gyym9310@gmail.com 😉👍
