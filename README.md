@@ -15,6 +15,7 @@
 
 
 - Back-end : 
+<span><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=orange"/></span>
 <span><img src="https://img.shields.io/badge/orcle-F80000?style=flat&logo=oracle&logoColor=red"/></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span><br/>
 
