@@ -2,8 +2,8 @@
 
 # ▎About
 💕Park ga youn
-- Inha University (SNU)
-- Major : Cultural Content
+- Inha University
+- Major : Cultural Content / Minor : Department of Computer Science
 - gyym9310@gmail.com 😉👍
 - ubrejk@naver.com
 
