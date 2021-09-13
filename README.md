@@ -23,8 +23,8 @@
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
-# ▎Blog For Learning
+# ▎Blog
 - ### https://ga-you-ni.tistory.com/
 
-# ▎Portfolio Website
+# ▎Portfolio
 - ### https://ga-youn/ga-youn.github.io
