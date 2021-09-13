@@ -5,7 +5,6 @@
 - Inha University
 - Major : Cultural Content / Minor : Department of Computer Science
 - gyym9310@gmail.com 😉👍
-- ubrejk@naver.com
 
 # ▎Tech Stacks
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
@@ -27,4 +26,4 @@
 - https://ga-you-ni.tistory.com/
 
 # ▎Portfolio
-- https://ga-youn/ga-youn.github.io
+- https://ga-youn.github.io
