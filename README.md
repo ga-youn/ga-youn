@@ -17,14 +17,11 @@
 - Back-end : 
 <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/orcle-F80000?style=flat&logo=oracle&logoColor=red"/></span>
-<span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
 
 
-- Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><span>
+- Version Control :<span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><span>
 <span><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><span>
 
 # ▎Blog
