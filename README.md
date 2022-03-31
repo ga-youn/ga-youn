@@ -28,5 +28,5 @@
 # ▎Blog
 - https://ga-you-ni.tistory.com/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyym9310@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ga-youn&show_icons=true&theme=radical)
 
