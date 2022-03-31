@@ -1,4 +1,3 @@
-# 🎉Welcome To My GitHub!🎉
 
 # ▎About
 - 💕Park ga youn
