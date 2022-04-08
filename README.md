@@ -2,7 +2,6 @@
 # ▎About
 - 💕Park ga youn
 - Inha University
-- Major : Cultural Content / Minor : Department of Computer Science
 - gyym9310@gmail.com 😉👍
 
 # ▎Tech Stacks
@@ -28,6 +27,6 @@
 # ▎Blog
 - https://ga-you-ni.tistory.com/
   
-# ▎And...
+# ▎And...!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ga-youn)](https://github.com/anuraghazra/github-readme-stats)
