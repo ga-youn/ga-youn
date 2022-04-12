@@ -14,13 +14,17 @@
 
 - Back-end : 
 <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
 <span>![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</span>
+<span><img src="https://img.shields.io/badge/tibero-8cebd6?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white"></span>
 
 
 - Version Control :<span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><span>
 <span><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><span>
+<span><img src="https://img.shields.io/badge/Tortoise svn-308af2?style=for-the-badge"></span>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ga-youn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
